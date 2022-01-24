@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>electronics</title>
+<style>
+body{font-family:arial; text-align:center;}
+	.category{width: 100%; float: left; text-align:center; margin:auto;}
+	.products{width: 20%; float: left;  padding: 10px; margin-left:20PX;}
+	.products img { width:100%; height:100%;}
+	.products h6{margin:0;
+	color:#2F4F4F;}
+	.products h6:hover{
+	color:black;}
+	.search_bar{
+	width: 30%;
+	border: 3px solid #b8ffcb;
+	margin-left: 50px;
+	padding: 10px;
+	border-right: none;
+	outline: none;
+	border-radius: 5px 0 0 5px;
+	float:right;
+}
+.search_bar :focus{
+	color: #b8ffcb;
+}
+.search_btn{
+	width: 10%;
+	padding: 7px 10px 10px 10px;
+	background-color: #b8ffcb;
+	border: 0px solid #b8ffcb;
+	color: #000;
+	margin-left: -7px;
+	font-size: 20px;
+	cursor: pointer;
+	border-radius: 0 5px 5px 0;
+	float:right;
+
+	
+</style>
+</title>
+</head>
+<body>
+<img src="img/logos.png" style="margin: 0; float:left;">
+<input type="button" value="search" class="search_btn">
+<input type="text" placeholder="I'm looking for..." class="search_bar">
+
+<h1 style="margin-left:20px; margin-top:10px;">Electronics<h1>
+<div class="category">
+	<h3 style="width:100%; border-bottom:1px solid black; text-align:left;">Top Tranding</h3>
+	<div class="products">
+		<img src="img/google_home.jpg">
+		<h6>Google Home Mini</h6>
+		<h6>3100tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+	<div class="products">
+		<img src="img/earphone/havit_earphone.jpg">
+		<h6>Havit earphone</h6>
+		<h6>350tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+	<div class="products">
+		<img src="img/realme_buds.jpg">
+		<h6>Realme Buds</h6>
+		<h6>2890tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+	<div class="products">
+		<img src="img/sugar_candy.jpg">
+		<h6>cotton Candy Maker</h6>
+		<h6>3590tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+</div>
+<div class="category">
+	<h3 style="width:100%; border-bottom:1px solid black; text-align:left;">Earphone & Headphones</h3>
+	<div class="products">
+		<img src="img/earphone/remax_bluetooth.jpg">
+		<h6>Remax Bluetooth</h6>
+		<h6>1750tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+	<div class="products">
+		<img src="img/earphone/havit_earphone.jpg">
+		<h6>Havit earphone</h6>
+		<h6>350tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+	<div class="products">
+		<img src="img/earphone/spearhead_headphone.jpg">
+		<h6>Spearhead Headphone</h6>
+		<h6>2250tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+	<div class="products">
+		<img src="img/earphone/white_headset.jpg">
+		<h6>White Wireless Headset</h6>
+		<h6>3000tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+</div>
+<div class="category">
+	<h3 style="width:100%; border-bottom:1px solid black; text-align:left;">Electronics</h3>
+	<div class="products">
+		<img src="img/electronics/samsung_360.jpg">
+		<h6>Samsung Gear 360</h6>
+		<h6>9900tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+	<div class="products">
+		<img src="img/electronics/streaming_audio.jpg">
+		<h6>Live Straming Audio</h6>
+		<h6>2200tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+	<div class="products">
+		<img src="img/electronics/xiaomi_android_tv.jpg">
+		<h6>Xiaomi Android tv</h6>
+		<h6>26,000tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+	<div class="products">
+		<img src="img/electronics/access_machine.jpg">
+		<h6>Access Control Machine</h6>
+		<h6>9500tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+</div>
+</body>
+</html>

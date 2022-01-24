@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>gedgets</title>
+<link rel="stylesheet" href="../css/style.css">
+</title>
+</head>
+<body>
+<div class="header">
+	<a href="../index.html"><img src="img/logos.png" style="margin: 0; float:left;"></a>
+	<input type="text" placeholder="I'm looking for..." class="search_bar">
+	<input type="button" value="search" class="search_btn">
+</div><br><br>
+<div class="menu">
+	<ul>
+		<li><a href="../Mobile Accessories/mobile.html">Mobile Accessorices</a></li>
+		<li><a href="../Electronics/electronics.html">Electronics</a></li>
+		<li><a href="../Earphone&headphone/earphone&headphone.html">Earphone & Headphones</a></li>
+		<li><a href="../Gedget/gedget.html">Gedgets</a></li>
+		<li><a href="../Home_Applience/home_applience.html">Home Appliances</a></li>
+		<li><a href="../computer&office/computer.html">Computer & Office</a></li>
+		<li><a href="../Watches/watches.html">Watches Collection</a></li>
+	</ul>
+</div>
+<h1 style="margin-left:20px; margin-top:10px;">Gedgets<h1>
+<div class="category">
+	<h3 style="width:100%; border-bottom:1px solid black; text-align:left;">Top Tranding</h3>
+	<div class="products">
+		<img src="img/google_home.jpg">
+		<h6>Google Home Mini</h6>
+		<h6>3100tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+	<div class="products">
+		<img src="img/earphone/havit_earphone.jpg">
+		<h6>Havit earphone</h6>
+		<h6>350tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+	<div class="products">
+		<img src="img/realme_buds.jpg">
+		<h6>Realme Buds</h6>
+		<h6>2890tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+	<div class="products">
+		<img src="img/sugar_candy.jpg">
+		<h6>cotton Candy Maker</h6>
+		<h6>3590tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+</div>
+<div class="category">
+	<h3 style="width:100%; border-bottom:1px solid black; text-align:left;">Earphone & Headphones</h3>
+	<div class="products">
+		<img src="img/earphone/remax_bluetooth.jpg">
+		<h6>Remax Bluetooth</h6>
+		<h6>1750tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+	<div class="products">
+		<img src="img/earphone/havit_earphone.jpg">
+		<h6>Havit earphone</h6>
+		<h6>350tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+	<div class="products">
+		<img src="img/earphone/spearhead_headphone.jpg">
+		<h6>Spearhead Headphone</h6>
+		<h6>2250tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+	<div class="products">
+		<img src="img/earphone/white_headset.jpg">
+		<h6>White Wireless Headset</h6>
+		<h6>3000tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+</div>
+<div class="category">
+	<h3 style="width:100%; border-bottom:1px solid black; text-align:left;">Electronics</h3>
+	<div class="products">
+		<img src="img/electronics/samsung_360.jpg">
+		<h6>Samsung Gear 360</h6>
+		<h6>9900tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+	<div class="products">
+		<img src="img/electronics/streaming_audio.jpg">
+		<h6>Live Straming Audio</h6>
+		<h6>2200tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+	<div class="products">
+		<img src="img/electronics/xiaomi_android_tv.jpg">
+		<h6>Xiaomi Android tv</h6>
+		<h6>26,000tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+	<div class="products">
+		<img src="img/electronics/access_machine.jpg">
+		<h6>Access Control Machine</h6>
+		<h6>9500tk</h6>
+		<input type="button" value="Buy Now">
+	</div>
+</div>
+</body>
+</html>
